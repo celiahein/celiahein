@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @celiahein. I'm a PhD candidate at the University of Toronto. 
-- I'm currently learning a ton of statistics, modelling, and programming techniques including
+- 👋 Hi, I’m @celiahein. I'm a PhD candidate at the University of Toronto.  
+-  🔭 I'm currently learning a ton of statistics, modelling, and programming techniques including
 - 🌱 I’m currently devloping on a spatial optimization program for ecological community data using HPC.
-- - 👀 I’m interested in: learning 
+- 👀 I’m interested in: learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter @celia_hein
 
