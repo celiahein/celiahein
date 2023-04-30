@@ -11,7 +11,7 @@ I’m @celiahein. I'm a PhD candidate at the University of Toronto. 🐝 I'm int
 
 
 
-I would like to introduce the incredible co-author of everything I write: Edgar the Wise
+I would like to introduce the incredible collaborator in everything I do: Edgar the Wise
 
 <img src="https://user-images.githubusercontent.com/41344079/235374543-5f486930-b08b-4b66-a899-c5b7076eae95.PNG" width="40%">
 
