@@ -1,11 +1,11 @@
 ## 👋 Hello there!
 
-I’m @celiahein. I'm a PhD candidate at the University of Toronto. 🐝 I'm interested in separating pattern from process to identify community assembly drivers for over 100 bee species. 🐝
+I’m @celiahein. I'm a PhD candidate at the University of Toronto. 🐝 I'm investigating the influence of spatial scale on species distribution modelling 🐝
 
 - 🌱 I’m currently devloping a program that identifies the optimal spatial scale of response for ecological community data using GLMMs. 
 -  🖥️  I'm learning and practicing a vareity of skills including: statistical modelling, machine learning, and high performance computing.
 
-- 🔎 I’m looking for help transistioning out of my PhD and identifying career opportunities beyond academia in computational and quantitative biology, ecology, or data science. 
+- 🔎 I’m looking for help transistioning out of my PhD and identifying career opportunities beyond academia in computational and quantitative biology, ecology, and data science. 
 - 👀 I'm looking forward to expanding into predictive, spatially-explicit modelling and deep-learning.
 - 🙂 Please feel free to reach out!
 
