@@ -3,7 +3,7 @@
 I’m @celiahein. I'm an ecological data scientist, recent PhD graduate, and current postdoctoral researcher at the University of Toronto.  
 
 - 🖥️ I use statistical modelling, machine learning, and high performance computing to solve complex problems, mainly in biological systems.
-- - 🌱 I recently developed a program that compares glmms to estimate the optimal spatial scale of species-landcover relationships to improve distribution modelling using empirical data of multiple bee🐝species as the example.
+- 🌱 I recently developed a program that compares glmms to estimate the optimal spatial scale of species-landcover relationships to improve distribution modelling using empirical data of multiple bee🐝species as the example.
 - 🍎 It's important to me to make science and learning to code as easy as possible, and I am working on putting a series of coding tutorials on my [website](https://celiahein.github.io/). 
 
 - 🔎 I’m seeking career opportunities beyond academia in computational and quantitative biology and data science. 
